@@ -642,10 +642,6 @@ rxjs@^5.0.0-beta.11:
   dependencies:
     symbol-observable "^1.0.1"
 
-search-string@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/search-string/-/search-string-3.0.0.tgz#576dd5ee94e0a4051c1e4ae72e13174727986773"
-
 shebang-command@^1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/shebang-command/-/shebang-command-1.2.0.tgz#44aac65b695b03398968c39f363fee5deafdf1ea"

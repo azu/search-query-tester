@@ -65,7 +65,6 @@
   },
   "types": "lib/search-query-tester.d.ts",
   "dependencies": {
-    "philtre": "^1.0.2",
-    "search-string": "^3.0.0"
+    "philtre": "^1.0.2"
   }
 }
