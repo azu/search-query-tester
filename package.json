@@ -11,7 +11,7 @@
     "src/"
   ],
   "name": "search-query-tester",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test object with search query syntax.",
   "main": "lib/search-query-tester.js",
   "scripts": {
