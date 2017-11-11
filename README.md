@@ -1,4 +1,4 @@
-# search-query-tester
+# search-query-tester [![Build Status](https://travis-ci.org/azu/search-query-tester.svg?branch=master)](https://travis-ci.org/azu/search-query-tester)
 
 Test object with search query syntax.
 
