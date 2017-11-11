@@ -72,10 +72,6 @@ Note that except for values before a colon in keywords using them (which must ma
 | `#[xxx]` | true if the `.tags` property contains `xxx` |
 | `:before:[xxx]` | true if the `.date` property is less than `xxx` |
 | `:after:[xxx]` | true if the `.date` property is greater than `xxx` |
-| `:sort:[field]` | sorts on `field` | 
-| `:sortr:[field]` | sorts on `field` in the order opposite `:sort:` | 
-| `:limit:[count]` | only shows up to `count` results | 
-
 
 ## Changelog
 
